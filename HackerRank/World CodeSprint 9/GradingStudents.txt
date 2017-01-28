@@ -5,6 +5,7 @@ import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
+// @author Arman Tim Ilyassov
 public class GradingStudents {
 	static int grading(int grade) {
 		// return the failing grade below 40
