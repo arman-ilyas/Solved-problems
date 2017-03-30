@@ -2,7 +2,7 @@ package com.practice.hackerrank;
 
 import java.util.Scanner;
 
-public class Solution {
+public class PlusMinus {
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
